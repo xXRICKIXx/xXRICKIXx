@@ -1,4 +1,4 @@
-<p align="left">I'm Henrique Celso, i'm learning about technology <br>I'm studying software engineering <br> 👍</p>
+<p align="left">I'm Henrique Celso, i'm learning about technology <br> studying software engineering </p>
 
 ###
 
